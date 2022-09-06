@@ -1,0 +1,64 @@
+{
+  "user": [
+    {
+      "firstName": "Nishant",
+      "lastName": "Sharma",
+      "email": "nishant.sharma@netsmartz.net",
+      "password": "123456",
+      "confirmPassword": "123456",
+      "agreement": true,
+      "key": "a7211c7-f743-eec7-5cae-1b58ffab4f6",
+      "id": 1
+    },
+    {
+      "firstName": "Pooja",
+      "lastName": "Negi",
+      "email": "pooja.negi@netsmartz.net",
+      "password": "123456",
+      "confirmPassword": "123456",
+      "agreement": true,
+      "key": "e2160d1-44db-20-fdae-0baff7f3a7e",
+      "id": 2
+    },
+    {
+      "firstName": "Selina",
+      "lastName": "Darnal",
+      "email": "selina.darnal@netsmartz.net",
+      "password": "123456",
+      "confirmPassword": "123456",
+      "agreement": true,
+      "key": "268751c-e8c1-fe84-20d1-57bb702aca6",
+      "id": 3
+    },
+    {
+      "firstName": "Sanjana",
+      "lastName": "Thapa",
+      "email": "sanjana.thapa@netsmartz.net",
+      "password": "123456",
+      "confirmPassword": "123456",
+      "agreement": true,
+      "key": "db3bc35-54bc-1f40-aa80-145266ce04df",
+      "id": 5
+    },
+    {
+      "firstName": "Nishant",
+      "lastName": "Sharma",
+      "email": "nishant.sharma@netsmartz.net",
+      "password": "123456",
+      "confirmPassword": "123456",
+      "agreement": true,
+      "key": "1de6357-230a-2b51-1e5e-20f4aeaa03b4",
+      "id": 6
+    },
+    {
+      "firstName": "Nishant",
+      "lastName": "Sharma",
+      "email": "nishant.sharma@netsmartz.net",
+      "password": "123456",
+      "confirmPassword": "123456",
+      "agreement": true,
+      "key": "523dbf5-dcf-fbe-13ba-efd37eb2654",
+      "id": 7
+    }
+  ]
+}
